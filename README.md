@@ -1,4 +1,5 @@
-# practicesql
+# practicesql questions
+
 **case study on an eCommerce database system**, including:
 
 1. **Schema overview with 5 entities**
